@@ -22,5 +22,5 @@ TARGET_OTA_ASSERT_DEVICE := sprout,sprout4
 TARGET_RECOVERY_FSTAB := device/google/sprout4/rootdir/root/fstab.sprout
 
 #Specify Target Custom GCC Chains to use:
-TARGET_GCC_VERSION_AND := 4.9
-TARGET_GCC_VERSION_ARM := 4.8
+#TARGET_GCC_VERSION_AND := 4.9
+#TARGET_GCC_VERSION_ARM := 4.8
